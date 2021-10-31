@@ -1,0 +1,357 @@
+{
+  "6ef13e42-ad89-4d42-9480-546e0c04a411": {
+    "0c7968e5-6c42-4e58-b517-19927e4eece7": {
+      "1": "Employees terminal benefits (Indemnity)",
+      "3": "3c5600e0-0325-4c79-ac2a-5f49c522fcb5"
+    },
+    "487fae09-d4b1-4b17-91d4-cd8a791eaff2": {
+      "1": "Provision for staff air passage",
+      "3": "fa9b43c1-9001-4fb5-a737-34d3103b1996"
+    },
+    "8e4bb32d-40fe-4ae3-a0ae-c85d8a0450fa": {
+      "1": "Value-added tax payable (VAT)",
+      "3": "fa9b43c1-9001-4fb5-a737-34d3103b1996"
+    },
+    "b981ca19-a98e-45d5-8d35-98b33992566f": {
+      "1": "Provision for staff leave salaries",
+      "3": "fa9b43c1-9001-4fb5-a737-34d3103b1996"
+    }
+  },
+  "c03d1921-7a45-4eda-8742-a2d9082dcf4f": {
+    "3c5600e0-0325-4c79-ac2a-5f49c522fcb5": {
+      "1": "Noncurrent liabilities",
+      "3": "ed5a19f6-12c5-45cc-b4b7-4e79f7ef50bc"
+    },
+    "71927d6a-c9f9-4dec-a772-af264f2cc584": {
+      "1": "Noncurrent assets",
+      "3": "4c05c221-ca57-4c7c-be62-115669302ed4"
+    },
+    "96d69b1a-27e6-4227-8d59-c89cf9d598a7": {
+      "1": "Current assets",
+      "3": "4c05c221-ca57-4c7c-be62-115669302ed4"
+    },
+    "fa9b43c1-9001-4fb5-a737-34d3103b1996": {
+      "1": "Current liabilities",
+      "3": "ed5a19f6-12c5-45cc-b4b7-4e79f7ef50bc"
+    }
+  },
+  "39dde4fc-7af8-44cc-8572-3b1ff4cfb918": {
+    "39dde4fc-7af8-44cc-8572-3b1ff4cfb918": {
+      "3": "BHD",
+      "2": "Bahraini Dinar",
+      "4": "BHD",
+      "5": 3
+    }
+  },
+  "dcb382dc-a4e0-4354-a845-b7d647f610f7": {
+    "692ed311-6728-4477-8561-434f3ed2fd5b": {
+      "1": "Commercial Registration",
+      "8": true,
+      "2": "38cf4712-6e95-4ce1-b53a-bff03edad273"
+    },
+    "7256a421-3d91-4479-978b-625895b920e9": {
+      "1": "VAT Account",
+      "4": 1,
+      "8": true,
+      "2": "38cf4712-6e95-4ce1-b53a-bff03edad273"
+    },
+    "9abd1493-713b-4419-814e-2abe4b0c85e9": {
+      "1": "CPR",
+      "8": true,
+      "2": "dadb7f95-a5dd-45c0-945d-6ad4ee28776e"
+    }
+  },
+  "a56e89d1-7bee-4509-8b84-c9ebc3808b0c": {
+    "a56e89d1-7bee-4509-8b84-c9ebc3808b0c": {
+      "1": "dd/MM/yyyy",
+      "4": "HH:mm:ss",
+      "3": "CgEuEgEsGAM="
+    }
+  },
+  "79f99d26-e43a-4ecb-a9c9-0774601a9b2e": {
+    "79f99d26-e43a-4ecb-a9c9-0774601a9b2e": {
+      "8": 1,
+      "14": true
+    }
+  },
+  "0444eb18-6fc5-4d1f-be8b-c114da01832c": {
+    "75df758a-c7c5-42ff-b9ee-c3525efee91d": {
+      "1": "Social insurance deduction",
+      "3": "52bacf93-086a-4012-9a0f-85380838e40e",
+      "4": {}
+    }
+  },
+  "ab02f6ab-c91c-4fc2-b979-66a6682c200e": {
+    "24b38a1f-03d6-4470-9a38-e44aed4ff0c4": {
+      "1": "HR allowance",
+      "3": "cbd01f72-d1cc-4ab5-8b13-732be4ec0393",
+      "4": {}
+    },
+    "a9737074-1fd8-4fa8-983a-9799f5d8d684": {
+      "1": "Bonus pay",
+      "3": "fea71575-d9f1-4d79-a026-ebf837b7b5b9",
+      "4": {}
+    },
+    "b1f0cb1d-a89b-47ac-9d84-19e947bb737c": {
+      "1": "Basic salary",
+      "3": "6986589f-951c-4c5c-9fb1-23348418b449",
+      "4": {}
+    },
+    "c38e1755-ccc8-4857-9d9d-88588598ffa6": {
+      "1": "Regular overtime (125%)",
+      "3": "1b5d6e6e-6bc4-47a8-af9d-1b7652e596cb",
+      "4": {}
+    },
+    "d331b28a-ca7f-46fe-8910-96d45b7b28ed": {
+      "1": "Special overtime (150%)",
+      "3": "a06fd1c3-8eb3-4b9b-afe9-63bcf4ef7411",
+      "4": {}
+    }
+  },
+  "26b9e4a5-ce10-4f30-94c7-23a1ca4428f9": {
+    "1b5d6e6e-6bc4-47a8-af9d-1b7652e596cb": {
+      "1": "Regular overtime",
+      "3": "6d0466b6-0b69-4e9b-8254-581ceac1624c"
+    },
+    "27ec4386-fd34-4451-8e3b-09feeef2ee7a": {
+      "1": "Repairs and maintenance",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "2b4449fd-3196-4bd9-adeb-5bb7d67f9d7e": {
+      "1": "Telephone",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "2c797750-58c3-46cc-8330-80c5d913b436": {
+      "1": "Staff air passage expenses",
+      "3": "6d0466b6-0b69-4e9b-8254-581ceac1624c"
+    },
+    "2dcdacbd-b22b-4164-8921-da24808b4c5a": {
+      "1": "Staff indemnity expenses",
+      "3": "6d0466b6-0b69-4e9b-8254-581ceac1624c"
+    },
+    "3e7dc01e-fec0-4adf-a054-43c1a838eb6c": {
+      "1": "Staff leave expenses",
+      "3": "6d0466b6-0b69-4e9b-8254-581ceac1624c"
+    },
+    "52bacf93-086a-4012-9a0f-85380838e40e": {
+      "1": "Social insurance expense",
+      "3": "6d0466b6-0b69-4e9b-8254-581ceac1624c"
+    },
+    "595c9fa6-5d9d-455d-8215-8e3f57179169": {
+      "1": "Interest received",
+      "3": "95713fac-30d3-42e4-b536-dd7bc4f7a80e"
+    },
+    "59736fc2-f437-4fbd-8045-212ffd38f181": {
+      "1": "Donations",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "6986589f-951c-4c5c-9fb1-23348418b449": {
+      "1": "Basic Salaries",
+      "3": "6d0466b6-0b69-4e9b-8254-581ceac1624c"
+    },
+    "70ed227a-09d9-4958-aa10-40a76aad8bc4": {
+      "1": "Rent",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "737f92e9-e32a-4837-b19c-5b50e0b747dd": {
+      "1": "Sales",
+      "3": "95713fac-30d3-42e4-b536-dd7bc4f7a80e"
+    },
+    "7cdcc691-91e9-49b2-9f9c-5cb6d0d229ff": {
+      "1": "Labour tax expenses (LMRA)",
+      "3": "6d0466b6-0b69-4e9b-8254-581ceac1624c"
+    },
+    "7d7e5c2c-f796-45cc-bfbe-33c24decc589": {
+      "1": "Bank charges",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "7eb7b512-f464-4403-be70-40881b068888": {
+      "1": "Advertising and promotion",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "84ce5148-b849-4b91-bacd-6620f1fd657e": {
+      "1": "Motor vehicle expenses",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "91bdaee6-c14c-4a27-9a6d-5b9365a6cd48": {
+      "1": "Electricity, water and municipality tax",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "93e01a37-71b9-40af-8df4-bb07a3c54bb6": {
+      "1": "VISA and permits",
+      "3": "6d0466b6-0b69-4e9b-8254-581ceac1624c"
+    },
+    "a06fd1c3-8eb3-4b9b-afe9-63bcf4ef7411": {
+      "1": "Special overtime",
+      "3": "6d0466b6-0b69-4e9b-8254-581ceac1624c"
+    },
+    "a2753d65-cf6c-4d39-8187-1118babf0730": {
+      "1": "Accounting fees",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "c1946dfb-af76-4fa7-b53a-18ea27fd71d1": {
+      "1": "Variable staff allowances",
+      "3": "6d0466b6-0b69-4e9b-8254-581ceac1624c"
+    },
+    "c661cde2-a79f-4ab7-9ee1-443f38897c42": {
+      "1": "Printing and stationery",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "caed9aed-bb2b-49c3-89f7-d91f8ce7ea44": {
+      "1": "Legal fees",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "cbd01f72-d1cc-4ab5-8b13-732be4ec0393": {
+      "1": "Fixed staff allowances",
+      "3": "6d0466b6-0b69-4e9b-8254-581ceac1624c"
+    },
+    "d3a8b599-bd22-46d6-8b08-97f4e88ac335": {
+      "1": "Entertainment",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "d829aa0f-a0d3-4e61-91f3-7b477c79b01c": {
+      "1": "Staff welfare",
+      "3": "6d0466b6-0b69-4e9b-8254-581ceac1624c"
+    },
+    "fdb41504-a4eb-4964-aabb-857c3490e5d5": {
+      "1": "Computer equipment",
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "fea71575-d9f1-4d79-a026-ebf837b7b5b9": {
+      "1": "Staff bonuses and incentives",
+      "3": "6d0466b6-0b69-4e9b-8254-581ceac1624c"
+    }
+  },
+  "5770616c-0e01-46ca-a172-f7042275da6c": {
+    "6d0466b6-0b69-4e9b-8254-581ceac1624c": {
+      "1": "Staff costs",
+      "6": 2,
+      "3": "fd003045-876e-439e-b923-1904453f5c30"
+    },
+    "929e8599-035e-4965-850d-0a7471b7fa62": {
+      "1": "Other income",
+      "5": 4
+    },
+    "95713fac-30d3-42e4-b536-dd7bc4f7a80e": {
+      "1": "Income",
+      "5": 1
+    },
+    "c5b8f59d-7d2b-491b-babb-e5a5046ca493": {
+      "1": "Cost of operation",
+      "6": 1,
+      "5": 2
+    },
+    "fd003045-876e-439e-b923-1904453f5c30": {
+      "1": "Expenses",
+      "6": 1,
+      "5": 5
+    }
+  },
+  "7662b887-c8d8-486e-98fd-f9dbcd41c6dc": {
+    "7662b887-c8d8-486e-98fd-f9dbcd41c6dc": {
+      "8": 1,
+      "14": true
+    }
+  },
+  "a9a71e47-82b3-49db-8aec-898adb460a80": {
+    "a9a71e47-82b3-49db-8aec-898adb460a80": {
+      "1": 311
+    }
+  },
+  "f361339b-932a-4436-b56e-a337c1587c72": {
+    "0a27e687-4759-4501-9339-e7b3b2525717": {
+      "1": "Drawings"
+    },
+    "ad019efd-834e-496b-a3da-20d71f97194e": {
+      "1": "Share of profit"
+    },
+    "b36aac3c-36ef-4b0e-b4a6-a316408171cf": {
+      "1": "Funds contributed"
+    }
+  },
+  "9601ce49-6058-4dac-9405-82f35005ea90": {
+    "208b520e-e7e4-4663-bc6d-d97d5164a6fd": {
+      "1": "Gross profit",
+      "3": 3
+    }
+  },
+  "ac789d1f-034f-4964-a8b5-ebfffc3511f2": {
+    "ac789d1f-034f-4964-a8b5-ebfffc3511f2": {
+      "18": true,
+      "19": true
+    }
+  },
+  "7f368d97-8b7f-4b39-b156-dc66afd9496a": {
+    "6686617b-7faa-4579-9b44-6fd16b55194d": {
+      "1": "Export VAT 0%",
+      "2": [
+        {}
+      ],
+      "13": true,
+      "14": "Tax Invoice",
+      "15": true,
+      "16": "Tax Credit Note",
+      "17": {}
+    },
+    "6db645fd-ae75-4bbb-bf25-78adc7bbb991": {
+      "1": "VAT 0%",
+      "2": [
+        {}
+      ],
+      "13": true,
+      "14": "Tax Invoice",
+      "15": true,
+      "16": "Tax Credit Note",
+      "17": {}
+    },
+    "7a2541ca-48cc-454b-a167-8aac73a70709": {
+      "1": "Reverse Charged VAT 5%",
+      "2": [
+        {}
+      ],
+      "11": true,
+      "12": 5.0,
+      "17": {}
+    },
+    "96dd0283-95e9-42f8-b8b7-42691876dee3": {
+      "1": "VAT Exempt",
+      "2": [
+        {}
+      ],
+      "17": {}
+    },
+    "b37231bf-b60d-4785-b800-67db9c1aab30": {
+      "1": "Customs VAT 100%",
+      "5": 1,
+      "7": "8e4bb32d-40fe-4ae3-a0ae-c85d8a0450fa",
+      "2": [
+        {}
+      ],
+      "17": {}
+    },
+    "cd2681a4-4605-4c59-b5bb-81d301c557b1": {
+      "1": "VAT 5%",
+      "5": 2,
+      "4": 5.0,
+      "7": "8e4bb32d-40fe-4ae3-a0ae-c85d8a0450fa",
+      "2": [
+        {}
+      ],
+      "13": true,
+      "14": "Tax Invoice",
+      "15": true,
+      "16": "Tax Credit Note",
+      "17": {}
+    },
+    "dfb074cd-231a-48cc-9325-d5dd3f49e2e1": {
+      "1": "VAT adjustment 100%",
+      "5": 1,
+      "7": "8e4bb32d-40fe-4ae3-a0ae-c85d8a0450fa",
+      "2": [
+        {}
+      ],
+      "10": true,
+      "17": {}
+    }
+  }
+}
